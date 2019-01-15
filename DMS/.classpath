@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SqlServer"/>
+	<classpathentry kind="lib" path="C:/Users/Freff/Desktop/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Freff/Desktop/mssql-jdbc-7.0.0.jre8.jar"/>
+	<classpathentry kind="lib" path="F:/存储-Google下载地址-18.10.22/SwingSets3(BeautyEyeLNFDemo).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
